@@ -17,7 +17,7 @@ const Footer = () => {
     },
     {
       icon: <Mail size={20} />,
-      href: "mailto:alex@desarrollador.com",
+      href: "mailto:br.desarrollador@gmail.com",
       label: "Email",
     },
   ];
@@ -92,7 +92,7 @@ const Footer = () => {
 
         <div className="mt-8 pt-8 border-t border-border text-center">
           <p className="text-muted-foreground text-sm flex items-center justify-center">
-            © {currentYear} Alex Desarrollador. Hecho con{" "}
+            © {currentYear} Brayan Desarrollador. Hecho con{" "}
             <Heart className="h-4 w-4 mx-1 text-red-500" fill="currentColor" />y
             mucho código.
           </p>

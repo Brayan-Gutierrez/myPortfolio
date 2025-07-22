@@ -21,7 +21,7 @@ const Hero = () => {
             <div className="space-y-4">
               <h1 className="heading-1">
                 Hola, soy{" "}
-                <span className="text-accent">Alex Desarrollador</span>
+                <span className="text-accent">Brayan Desarrollador</span>
               </h1>
               <p className="body-large text-muted-foreground max-w-lg">
                 Desarrollador Front-end especializado en crear experiencias web

@@ -45,8 +45,8 @@ const Contact = () => {
     {
       icon: <Mail className="h-5 w-5 text-accent" />,
       title: "Email",
-      value: "alex@desarrollador.com",
-      href: "mailto:alex@desarrollador.com",
+      value: "br.desarrollador@gmail.com",
+      href: "mailto:br.desarrollador@gmail.com",
     },
     {
       icon: <Phone className="h-5 w-5 text-accent" />,
